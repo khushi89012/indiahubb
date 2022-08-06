@@ -1,0 +1,37 @@
+
+.detail-container{
+    width: 100%;
+    height: 200px;
+    text-align: start;
+    margin-left: 20px;
+    margin-top: 30px;
+   
+    
+
+}
+.first-div{
+    text-align: start;
+    margin-left: 15px;
+    font-weight: 500;
+    font-size: 25px;
+}
+.second-div{
+    display: flex;
+    margin-top: 20px;
+}
+.star-Icon,.eye-Icon{
+    display:flex;
+    margin-left:10px;
+
+}
+.thirdiv{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.four-div{
+    margin-top: 15px;
+}
+.fifth-div{
+    margin-top: 10px;
+}
+
